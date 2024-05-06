@@ -1,4 +1,4 @@
-Hi, I’m Adil Sajjad. A graduate student currently enrolled in Energy System Engineering at Memorial University of Newfoundland.
+Hi, I’m Adil Sajjad. A graduate student from Memorial University of Newfoundland.
 I’m interested in learning about emerging technologies. 
 I’m currently learning DEVOPS and Cloud related technologies.
 I’m always seeking new technologies and best practice to stay up to date with latest trends. 
